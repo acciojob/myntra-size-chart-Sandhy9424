@@ -1,2 +1,20 @@
-
+table,tr,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+tr{
+	width=100 %;
+}
+th{
+	background-color:indianred
+}
+#id3{
+	background-color:lightblue;
+}
+#id2{
+	background-color:lightpink;
+}
+#id1{
+	background-color:lightcoral;
+}
 /* Your CSS Code here. */
